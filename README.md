@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Hoje trabalho como estágiario na Unimed Porto Velho
-- 🌱 Estou estudano Python, Scrum e Cloud
+- 🌱 Estou estudando Python, Scrum e Cloud
 - 📫 Contate-me no email: marcusaloise@gmail.com
 - 😄 Pronouns: ele/dele
 
