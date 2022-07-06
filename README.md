@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Hoje trabalho como estágiario na C6 Bank
+- 🔭 Hoje trabalho como SRE na C6 Bank
 - 🌱 Estou estudando Python, Scrum e Cloud
 - 📫 Contate-me no email: marcusaloise@gmail.com
 - 😄 Pronouns: ele/dele
