@@ -16,7 +16,13 @@
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Marcus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Marcus-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  
+  <img align="center" alt="Marcus-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Marcus-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+  <img align="center" alt="Marcus-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+            
+          
+          
+          
   ##
   
 <div style="display: inline_block" align="center">
