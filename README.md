@@ -3,9 +3,9 @@
 ##
 
 - 🔭 Hoje trabalho como SRE na C6 Bank
-- 🌱 Estou estudando Python, Scrum e Cloud
+- 🌱 Estou estudando Terraform
 - 📫 Contate-me no email: marcusaloise@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/marcusaloise">
