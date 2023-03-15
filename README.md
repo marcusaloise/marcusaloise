@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Hoje trabalho como SRE na C6 Bank
-- 🌱 Estou estudando Terraform
+
+- 🌱 Estou estudando para tirar o certificado aws solutions architect
 - 📫 Contate-me no email: marcusaloise@gmail.com
 
 
