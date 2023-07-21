@@ -3,7 +3,9 @@
 ##
 
 - Tech: AWS | Python | Terraform | Linux | Power BI | Ansible | Docker | Kubernetes
+  
 - A procura de novas oportundiades
+
 - 📫 Contate-me no email: marcusaloise@gmail.com
 
 
@@ -35,6 +37,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/marcusaloise/marcusaloise/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcusaloise/marcusaloise/blob/output/github-contribution-grid-snake.svg)
   
   
