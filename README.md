@@ -2,8 +2,8 @@
 
 ##
 
-
-- 🌱 Estou estudando para tirar o certificado aws solutions architect
+- Tech: AWS | Python | Terraform | Linux | Power BI | Ansible | Docker | Kubernetes
+- A procura de novas oportundiades
 - 📫 Contate-me no email: marcusaloise@gmail.com
 
 
@@ -29,7 +29,6 @@
   ##
   
 <div style="display: inline_block" align="center">
-  <a href="https://www.instagram.com/marcusaloise/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:marcusaloise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcusaloise/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
