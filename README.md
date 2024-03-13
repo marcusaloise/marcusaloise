@@ -1,4 +1,4 @@
-.### Olá! Eu sou o Marcus Aloise 👋👋 
+### Olá! Eu sou o Marcus Aloise 👋👋 
 
 ##
 
